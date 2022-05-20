@@ -1,6 +1,6 @@
 ### Hi, my name is Carlos Mendez :wave:
 
-- 🇨🇴 I am from Colombia but living in the US (Green Card holder) :flag-um:
+- 🇨🇴 I am from Colombia but living in the US (Green Card holder) 🇺🇸
 - 🤹🏻 I am a junior iOS software engineer with a diverse backgroung.
 - 👨🏼‍🎓 BA in Advertising, MBA and pursuing a Masters in Computer Science at Harvard.
 - 🚀 Previously CEO @Datagran
