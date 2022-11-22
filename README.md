@@ -9,7 +9,7 @@
 
 ## Work
 
-1. :computer: You can find my biggest project here [[url](https://apps.apple.com/us/app/roveapp/id1549314575)]
+1. :computer: You can find my biggest project here [[url](https://apps.apple.com/us/app/roveapp/id1549314575)] which has more than 1800 downloads in the App Store.
 
 ## Contact me
 1. :mailbox: you can reach me via email @ cm@roveapp.co
