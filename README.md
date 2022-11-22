@@ -3,7 +3,7 @@
 - 🇨🇴 I am from Colombia but living in the US (Green Card holder) 🇺🇸
 - 🤹🏻 I am a mid-level iOS software engineer with a diverse background. 
 - 🖥️ Experience in MMVM, UIKit, Combine, Async, Firebase, Firebase ML, Core ML, Core Graphics.
-- 🚀 Previously CEO @Datagran, entrepreneur and mostly a business guy.
+- 🚀 Previously CEO at www.datagran.io.
 - 👨🏼‍🎓 BA in Advertising, MBA and pursuing a Masters in Computer Science at Harvard.
 - 😎 I build robots with my son I am a Karate black belt :martial_arts_uniform: and love skiing :skier:. I used to be part of the national cycling and baseball team.
 
