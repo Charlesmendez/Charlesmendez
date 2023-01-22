@@ -10,7 +10,7 @@
 ## Work
 
 1. :computer: You can find my biggest project here [[url](https://apps.apple.com/us/app/roveapp/id1549314575)] which has more than 1800 downloads in the App Store. Entirely developed in UiKit.
-2. :computer: Developed ParlaAI powered by OpenAI. Project here [[url]((https://apps.apple.com/us/app/parlaai-journal-your-ai-diary/id1665385426)]. Parla was developed entirely in SwiftUI.
+2. :computer: Developed ParlaAI powered by OpenAI. Project here [[url](https://apps.apple.com/us/app/parlaai-journal-your-ai-diary/id1665385426)]. Parla was developed entirely in SwiftUI.
 
 ## Contact me
 1. :mailbox: you can reach me via email @ cm@roveapp.co
