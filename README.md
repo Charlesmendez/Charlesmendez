@@ -1,17 +1,24 @@
 ### Hi, my name is Carlos Mendez :wave:
 
-- 🇨🇴 I am from Colombia but living in the US (Green Card holder) 🇺🇸
-- 🤹🏻 I am a mid-level iOS software engineer with a diverse background. 
-- 🖥️ Experience in MMVM, UIKit, Combine, Async, Firebase, Firebase ML, Core ML, Core Graphics.
+- 🇨🇴 I am from Colombia but living in the US 🇺🇸
+- 🤹🏻 I have a diverse background. Started in advertising, became and entrepreneur and later a software engineer.
+- 👨🏼‍🎓 BA in Advertising, MBA and Computer Science dropout at Harvard.
+- 🖥️ Experience in Next.js, Node.js, Python, Java, MMVM, UIKit, Combine, Async, Firebase, Firebase ML, Core ML, Core Graphics.
 - 🐍 I have extensive experience in Data Analytics using Python, Flask, JS and SQL.
-- 🚀 CEO at www.datagran.io.
-- 👨🏼‍🎓 BA in Advertising, MBA and pursuing a Masters in Computer Science at Harvard.
-- 😎 I build robots with my son I am a Karate black belt :martial_arts_uniform: and love skiing :skier:. I used to be part of the national cycling and baseball team.
+- 🚀 CTO at www.datagran.io and Chief AI Officer at Telerion.
+- 😎 I build robots with my son, I am a Karate black belt :martial_arts_uniform: and love skiing :skier:. I used to be part of the national cycling and baseball team.
 
 ## Work
 
-1. :computer: You can find my biggest project here [[url](https://apps.apple.com/us/app/roveapp/id1549314575)] which has more than 1800 downloads in the App Store. Entirely developed in UiKit.
-2. :computer: Developed ParlaAI powered by OpenAI. Project here [[url](https://apps.apple.com/us/app/parlaai-journal-your-ai-diary/id1665385426)]. Parla was developed entirely in SwiftUI.
+1. Omnirion.ai: AI Voice Assistant [[url](https://omnirion.ai)]
+2. Persona360: First CRM built for Agents [[url](https://github.com/Charlesmendez/persona360)]
+3. Propheta.ai: AI predictive Signals for Predictive markets [[url](https://propheta.io)]
+4. Groovy: The OpenClaw enterprise alternative [[url](https://gogroovy.ai)]
+5. UpReady: iOS app to track your Readiness Score [[url](https://apps.apple.com/us/app/upready-ai-performance-tracker/id6738921753)]
+6. BillionR: Predictive Algorithms for Options Trading
+7. Datagran: Full Stack AI agency [[url](https://datagran.ai)]
+Roveapp: [[url](https://apps.apple.com/us/app/roveapp/id1549314575)] It has more than 1800 downloads in the App Store. Entirely developed in UiKit.
+8. ParlaAI: AI Journal. Project here [[url](https://apps.apple.com/us/app/parlaai-journal-your-ai-diary/id1665385426)]. Parla was developed entirely in SwiftUI.
 
 ## Contact me
 1. :mailbox: you can reach me via email @ cm@roveapp.co
