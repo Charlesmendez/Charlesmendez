@@ -31,6 +31,10 @@ Roveapp: [[url](https://apps.apple.com/us/app/roveapp/id1549314575)] It has more
 - Published release `v0.22.33` in `Charlesmendez/groovy-releases`
 <!--END_SECTION:activity-->
 
+## Contributions
+
+![GitHub Contribution Grid](https://github-contribution-grid.vercel.app/api?username=Charlesmendez)
+
 ## Contact me
 1. :mailbox: you can reach me via email @ cm@roveapp.co
 2. 🐥 Via twitter here [[url](https://twitter.com/charlesmendez)]
