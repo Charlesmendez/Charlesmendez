@@ -69,18 +69,27 @@ jobs:
                   action = payload.get("action", "updated")
                   pr = payload.get("pull_request", {}) or {}
                   title = pr.get("title", "pull request")
-                  return f"- {action.capitalize()} PR [{title}]({pr.get('html_url', '')}) in `{repo}`"
+                  url = pr.get("html_url", "")
+                  if url:
+                      return f"- {action.capitalize()} PR [{title}]({url}) in `{repo}`"
+                  return f"- {action.capitalize()} PR `{title}` in `{repo}`"
 
               if etype == "IssuesEvent":
                   action = payload.get("action", "updated")
                   issue = payload.get("issue", {}) or {}
                   title = issue.get("title", "issue")
-                  return f"- {action.capitalize()} issue [{title}]({issue.get('html_url', '')}) in `{repo}`"
+                  url = issue.get("html_url", "")
+                  if url:
+                      return f"- {action.capitalize()} issue [{title}]({url}) in `{repo}`"
+                  return f"- {action.capitalize()} issue `{title}` in `{repo}`"
 
               if etype == "IssueCommentEvent":
                   issue = payload.get("issue", {}) or {}
                   title = issue.get("title", "issue")
-                  return f"- Commented on [{title}]({issue.get('html_url', '')}) in `{repo}`"
+                  url = issue.get("html_url", "")
+                  if url:
+                      return f"- Commented on [{title}]({url}) in `{repo}`"
+                  return f"- Commented on `{title}` in `{repo}`"
 
               if etype == "CreateEvent":
                   ref_type = payload.get("ref_type", "item")
@@ -137,4 +146,7 @@ jobs:
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update README activity"
+          git push
