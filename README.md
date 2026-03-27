@@ -22,6 +22,11 @@ Roveapp: [[url](https://apps.apple.com/us/app/roveapp/id1549314575)] It has more
 9. ParlaAI: AI Journal. Project here [[url](https://apps.apple.com/us/app/parlaai-journal-your-ai-diary/id1665385426)]. Parla was developed entirely in SwiftUI.
 10. Gran Comunicaciones: One of the top 20 Ad Agencies in LATAM.
 
+
+## GH Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ## Contact me
 1. :mailbox: you can reach me via email @ cm@roveapp.co
 2. 🐥 Via twitter here [[url](https://twitter.com/charlesmendez)]
