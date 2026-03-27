@@ -1,4 +1,4 @@
-name: Update README with activity
+name: Update README
 
 on:
   schedule:
@@ -13,6 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: Readme-Workflows/recent-activity@v2
+      - uses: Readme-Workflows/recent-activity@main
         with:
           GH_USERNAME: Charlesmendez
