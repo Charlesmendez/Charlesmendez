@@ -5,7 +5,6 @@
 - 👨🏼‍🎓 BA in Advertising, MBA and Computer Science dropout at Harvard.
 - 🖥️ Experience in Next.js, Node.js, Python, Java, MMVM, UIKit, Combine, Async, Firebase, Firebase ML, Core ML, Core Graphics.
 - 🐍 I have extensive experience in Data Analytics using Python, Flask, JS and SQL.
-- 🚀 CTO at www.datagran.io and Chief AI Officer at Telerion.
 - 😎 I build robots with my son, I am a Karate black belt :martial_arts_uniform: and love skiing :skier:. I used to be part of the national cycling and baseball team.
 
 ## Work
